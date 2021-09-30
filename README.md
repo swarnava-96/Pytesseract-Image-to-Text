@@ -1,7 +1,7 @@
 # Pytesseract-Image-to-Text
 
 
-#### About: This library converts the the texts that are present in images to strings(texts). 
+### About: This library converts the the texts that are present in images to strings(texts). 
 
 
 ### Installation:
@@ -14,7 +14,7 @@ The Code is written in Python 3.7.3 If you don't have Python installed you can f
 4. Install OpenCV as this will help to display the images
 ```pip install opencv-python```
 5. Install Pytesseract
-6.```pip install pytesseract```
+```pip install pytesseract```
 
 Now,you are good to go. For more details click [here](https://github.com/UB-Mannheim/tesseract/wiki).
 
